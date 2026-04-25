@@ -1,4 +1,5 @@
-# Hi there, I'm Tirth
+# Hi there, I'm Rajesh Bhanushali
+
 ## Tech Enthusiast | Python Automator | Web Developer
 
 I love building automations, web apps, and useful scripts.
