@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there, I'm Tirth
+## Tech Enthusiast | Python Automator | Web Developer
 
-<!--
-**turfin226-pixel/turfin226-pixel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I love building automations, web apps, and useful scripts.
+College Student building the future.
+Always looking to learn new tech and build projects that solve real-world problems.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech Stack
+- Languages: Python, JavaScript, HTML, CSS
+- - Tools: Selenium, Git, GitHub
+ 
+  - ### GitHub Stats
+  - ![Stats](https://github-readme-stats.vercel.app/api?username=turfin226-pixel&show_icons=true&theme=radical)
+  - 
